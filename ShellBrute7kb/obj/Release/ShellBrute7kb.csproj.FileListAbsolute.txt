@@ -1,0 +1,9 @@
+D:\7kbWebScan\ShellBrute7kb\bin\Release\ShellBrute7kb.exe.config
+D:\7kbWebScan\ShellBrute7kb\bin\Release\ShellBrute7kb.exe
+D:\7kbWebScan\ShellBrute7kb\bin\Release\ShellBrute7kb.pdb
+D:\7kbWebScan\ShellBrute7kb\obj\Release\ShellBrute7kb.Form1.resources
+D:\7kbWebScan\ShellBrute7kb\obj\Release\ShellBrute7kb.Properties.Resources.resources
+D:\7kbWebScan\ShellBrute7kb\obj\Release\ShellBrute7kb.csproj.GenerateResource.cache
+D:\7kbWebScan\ShellBrute7kb\obj\Release\ShellBrute7kb.csproj.CoreCompileInputs.cache
+D:\7kbWebScan\ShellBrute7kb\obj\Release\ShellBrute7kb.exe
+D:\7kbWebScan\ShellBrute7kb\obj\Release\ShellBrute7kb.pdb

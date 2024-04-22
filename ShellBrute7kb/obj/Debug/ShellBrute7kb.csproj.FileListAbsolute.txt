@@ -1,0 +1,16 @@
+C:\xm\ShellBrute7kb\ShellBrute7kb\ShellBrute7kb\bin\Debug\ShellBrute7kb.exe
+C:\xm\ShellBrute7kb\ShellBrute7kb\ShellBrute7kb\bin\Debug\ShellBrute7kb.pdb
+C:\xm\ShellBrute7kb\ShellBrute7kb\ShellBrute7kb\obj\Debug\ShellBrute7kb.Form1.resources
+C:\xm\ShellBrute7kb\ShellBrute7kb\ShellBrute7kb\obj\Debug\ShellBrute7kb.Properties.Resources.resources
+C:\xm\ShellBrute7kb\ShellBrute7kb\ShellBrute7kb\obj\Debug\ShellBrute7kb.csproj.GenerateResource.Cache
+C:\xm\ShellBrute7kb\ShellBrute7kb\ShellBrute7kb\obj\Debug\ShellBrute7kb.exe
+C:\xm\ShellBrute7kb\ShellBrute7kb\ShellBrute7kb\obj\Debug\ShellBrute7kb.pdb
+D:\7kbWebScan\ShellBrute7kb\bin\Debug\ShellBrute7kb.exe.config
+D:\7kbWebScan\ShellBrute7kb\bin\Debug\ShellBrute7kb.exe
+D:\7kbWebScan\ShellBrute7kb\bin\Debug\ShellBrute7kb.pdb
+D:\7kbWebScan\ShellBrute7kb\obj\Debug\ShellBrute7kb.Form1.resources
+D:\7kbWebScan\ShellBrute7kb\obj\Debug\ShellBrute7kb.Properties.Resources.resources
+D:\7kbWebScan\ShellBrute7kb\obj\Debug\ShellBrute7kb.csproj.GenerateResource.cache
+D:\7kbWebScan\ShellBrute7kb\obj\Debug\ShellBrute7kb.csproj.CoreCompileInputs.cache
+D:\7kbWebScan\ShellBrute7kb\obj\Debug\ShellBrute7kb.exe
+D:\7kbWebScan\ShellBrute7kb\obj\Debug\ShellBrute7kb.pdb
